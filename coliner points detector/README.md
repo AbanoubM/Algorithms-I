@@ -15,4 +15,4 @@
 ![](sample_runs/input100.png?raw=true)
 ![](sample_runs/input200.png?raw=true)
 ![](sample_runs/input400.png?raw=true)
-![](sample_runs/input1423.png?raw=true)
+![](sample_runs/rs1423.png?raw=true)
