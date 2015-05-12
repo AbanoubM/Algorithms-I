@@ -2,7 +2,7 @@
 
 #####Copyright (c) [2014] [Abanoub Milad Nassief] [abanoubcs@gmail.com]
 
-#####Sample Runs
+##Sample Runs
 ![](sample_runs/input6.png?raw=true)
 ![](sample_runs/input8.png?raw=true)
 ![](sample_runs/input9.png?raw=true)
